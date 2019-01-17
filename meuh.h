@@ -1,0 +1,9 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <conio.h>
+#include <math.h>
+#include <ctype.h>
+#include <string.h>
+#include <windows.h>
+#include <windef.h>
+#include <time.h>
